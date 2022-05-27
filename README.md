@@ -4,4 +4,4 @@
 <p>11S19006 Daniel F.Lumbanraja Bagian Back End</p>
 <p>11S19023 Sarah O br Pasaribu</p>
 
-#Ini adalah hasil proyek SPT dengan proyek Data Mahasiswa
+# Ini adalah hasil proyek SPT dengan proyek Data Mahasiswa
